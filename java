@@ -13,6 +13,7 @@ class Main {
 }
 
 
+<<<<<<< Updated upstream
 new code by dev1 without pull the codepublic class MultiplyTwoNumbers {
 
     public static void main(String[] args) {
@@ -28,3 +29,9 @@ new code by dev1 without pull the codepublic class MultiplyTwoNumbers {
 
 //
   
+=======
+new code by dev1 without pull the code
+
+
+Please update the main source of the content
+>>>>>>> Stashed changes
